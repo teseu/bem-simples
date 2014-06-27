@@ -32,7 +32,7 @@
 		    require_once($_GET['page'].".php");
 		}
 		else
-			require_once("inicio.php");
+			require_once("404.php");
 	}
   
 
